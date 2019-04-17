@@ -1,6 +1,13 @@
-Xy Ozys
-=======
+# Xy Ozys
+
 Aka. Tic-Tac-Toe, Noughts and Crosses etc.
+
+## Description
+
+A solution of the code kata challenge hosted by [April Meetup](https://www.meetup.com/BelfastFP/events/260305305/) of the [Belfast FP](https://www.meetup.com/BelfastFP/) group. 
+
+This solution is written in [Elixir](https://elixir-lang.org/) and was paired by [@holsee](http://github.com/holsee) and [@swmcc](http://github.com/swmcc) using smiple functions and data with on the fly computation.
+
 
 ## Challenge
 
